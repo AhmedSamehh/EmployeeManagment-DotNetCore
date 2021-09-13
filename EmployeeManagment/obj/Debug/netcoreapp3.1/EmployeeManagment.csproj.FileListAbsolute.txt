@@ -33,3 +33,4 @@ D:\Projects\Web\DotNetCore\EmployeeManagment\EmployeeManagment\obj\Debug\netcore
 D:\Projects\Web\DotNetCore\EmployeeManagment\EmployeeManagment\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 D:\Projects\Web\DotNetCore\EmployeeManagment\EmployeeManagment\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
 D:\Projects\Web\DotNetCore\EmployeeManagment\EmployeeManagment\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Projects\Web\DotNetCore\EmployeeManagment\EmployeeManagment\bin\Debug\netcoreapp3.1\libman.json

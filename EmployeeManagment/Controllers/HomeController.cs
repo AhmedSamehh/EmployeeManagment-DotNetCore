@@ -36,5 +36,9 @@ namespace EmployeeManagment.Controllers
             //ViewBag.PageTitle = "Employee Details";
             return View(homeDetailsViewModel);
         }
+        public ViewResult Create()
+        {
+           return View();
+        }
     }
 }

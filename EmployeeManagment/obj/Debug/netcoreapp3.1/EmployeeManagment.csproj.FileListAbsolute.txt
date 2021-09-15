@@ -10,8 +10,6 @@ D:\Projects\Web\DotNetCore\EmployeeManagment\EmployeeManagment\bin\Debug\netcore
 D:\Projects\Web\DotNetCore\EmployeeManagment\EmployeeManagment\obj\Debug\netcoreapp3.1\EmployeeManagment.csprojAssemblyReference.cache
 D:\Projects\Web\DotNetCore\EmployeeManagment\EmployeeManagment\obj\Debug\netcoreapp3.1\EmployeeManagment.AssemblyInfoInputs.cache
 D:\Projects\Web\DotNetCore\EmployeeManagment\EmployeeManagment\obj\Debug\netcoreapp3.1\EmployeeManagment.AssemblyInfo.cs
-D:\Projects\Web\DotNetCore\EmployeeManagment\EmployeeManagment\obj\Debug\netcoreapp3.1\EmployeeManagment.csproj.CoreCompileInputs.cache
-D:\Projects\Web\DotNetCore\EmployeeManagment\EmployeeManagment\obj\Debug\netcoreapp3.1\EmployeeManagment.MvcApplicationPartsAssemblyInfo.cache
 D:\Projects\Web\DotNetCore\EmployeeManagment\EmployeeManagment\obj\Debug\netcoreapp3.1\EmployeeManagment.RazorTargetAssemblyInfo.cache
 D:\Projects\Web\DotNetCore\EmployeeManagment\EmployeeManagment\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeManagment.StaticWebAssets.Manifest.cache
 D:\Projects\Web\DotNetCore\EmployeeManagment\EmployeeManagment\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeManagment.StaticWebAssets.xml
@@ -35,3 +33,16 @@ D:\Projects\Web\DotNetCore\EmployeeManagment\EmployeeManagment\obj\Debug\netcore
 D:\Projects\Web\DotNetCore\EmployeeManagment\EmployeeManagment\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
 D:\Projects\Web\DotNetCore\EmployeeManagment\EmployeeManagment\bin\Debug\netcoreapp3.1\libman.json
 D:\Projects\Web\DotNetCore\EmployeeManagment\EmployeeManagment\obj\Debug\netcoreapp3.1\Razor\Views\Home\create.cshtml.g.cs
+D:\Projects\Web\DotNetCore\EmployeeManagment\EmployeeManagment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Projects\Web\DotNetCore\EmployeeManagment\EmployeeManagment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\Web\DotNetCore\EmployeeManagment\EmployeeManagment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\Web\DotNetCore\EmployeeManagment\EmployeeManagment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\Web\DotNetCore\EmployeeManagment\EmployeeManagment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\Web\DotNetCore\EmployeeManagment\EmployeeManagment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\Web\DotNetCore\EmployeeManagment\EmployeeManagment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Projects\Web\DotNetCore\EmployeeManagment\EmployeeManagment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\Web\DotNetCore\EmployeeManagment\EmployeeManagment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Projects\Web\DotNetCore\EmployeeManagment\EmployeeManagment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Projects\Web\DotNetCore\EmployeeManagment\EmployeeManagment\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Projects\Web\DotNetCore\EmployeeManagment\EmployeeManagment\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Projects\Web\DotNetCore\EmployeeManagment\EmployeeManagment\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
